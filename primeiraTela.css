@@ -1,0 +1,30 @@
+.container {
+    background-color: rgb(227, 210, 210);
+    height: 80vh;
+    width: 90h;
+    position: relative;
+    margin-top: 50px;
+    margin-left: 60%;
+
+}
+
+.container-sm {
+    background-color: rgb(200, 176, 176);
+    height: 50vh;
+    width: 50h;
+    position: relative;
+    margin-top: 50px;
+ 
+
+
+}
+
+#botaoAlerta {
+    margin-top: 270px;
+    margin-left: 205px;
+    position: static;
+    display: block;
+
+
+}
+
